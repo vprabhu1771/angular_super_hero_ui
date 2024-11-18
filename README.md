@@ -8,6 +8,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ? Which stylesheet format would you like to use? `SCSS` [https://sass-lang.com/documentation/syntax#scss]
 ? Do you want to enable Server-Side Rendering (SSR) and Static Site Generation (SSG/Prerendering)? `No`
 
+## Generate Environments
+```
+ng g environments
+```
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
