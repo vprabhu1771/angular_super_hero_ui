@@ -6,7 +6,9 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+
+    "rename-models": "node scripts/renameModels.js"
   },
   "private": true,
   "dependencies": {
